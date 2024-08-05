@@ -32,23 +32,15 @@ For a detailed walkthrough of the app, check out the Demo video: [Demo Video](ht
 Installation
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/MiteDyson/Product-Screens.git
+
 Navigate to the project directory:
-
-bash
-Copy code
 cd Product-Screens
+
 Install dependencies:
-
-bash
-Copy code
 flutter pub get
-Run the app:
 
-bash
-Copy code
+Run the app:
 flutter run
-Contributing
+
 

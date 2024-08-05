@@ -15,7 +15,8 @@ Screenshots
 Here are some screenshots of the app:
 
 First Screen (Home Screen)
-![First screen](https://github.com/user-attachments/assets/a1b21f5d-78e4-4150-bc92-cc469520d377)
+<img src="![First screen](https://github.com/user-attachments/assets/a1b21f5d-78e4-4150-bc92-cc469520d377)" width="720" height="1280">
+
 Second Screen (Product List)
 ![Second Screen](https://github.com/user-attachments/assets/74190175-67b3-4001-b0e8-bf5bb1916d76)
 Third Screen (Product Detail)

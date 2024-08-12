@@ -1,5 +1,5 @@
 Product App for ChatWise UK Limited
-Welcome to the Product App repository! This project was developed for an assignment for ChatWise UK Limited, showcasing skills in Android, iOS, and backend development using Flutter.
+Welcome to the Product App repository! This project was developed for showcasing skills in Android, iOS, and backend development using Flutter.
 
 Project Overview
 This Flutter application demonstrates a full-featured product app with clean architecture principles. It includes both frontend and backend functionalities, focusing on a seamless user experience across Android and iOS platforms.

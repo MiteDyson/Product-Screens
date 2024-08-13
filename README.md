@@ -1,46 +1,80 @@
-Product App for ChatWise UK Limited
-Welcome to the Product App repository! This project was developed for showcasing skills in Android, iOS, and backend development using Flutter.
+Here's a well-formatted README for your Product App:
 
-Project Overview
-This Flutter application demonstrates a full-featured product app with clean architecture principles. It includes both frontend and backend functionalities, focusing on a seamless user experience across Android and iOS platforms.
+---
 
-Features
-Cross-Platform Support: Fully functional on both Android and iOS.
-Responsive Design: Adapts to various screen sizes and orientations.
-Backend Integration: Efficient communication with the backend server.
-User Authentication: Secure login and registration processes.
-Product Management: View, add, and manage products.
-Real-Time Updates: Live updates for product information.
-Screenshots
+# Product App 
+
+Welcome to the Product App repository! This project was developed to showcase skills in Android, iOS, and backend development using Flutter.
+
+## Project Overview
+
+This Flutter application demonstrates a full-featured product app built with clean architecture principles. It includes both frontend and backend functionalities, focusing on providing a seamless user experience across Android and iOS platforms.
+
+## Features
+
+- **Cross-Platform Support**: Fully functional on both Android and iOS.
+- **Responsive Design**: Adapts to various screen sizes and orientations.
+- **Backend Integration**: Efficient communication with the backend server.
+- **User Authentication**: Secure login and registration processes.
+- **Product Management**: View, add, and manage products.
+- **Real-Time Updates**: Live updates for product information.
+
+## Screenshots
+
 Here are some screenshots of the app:
 
-First  Screen  (Home Screen)
+**All Screens**
 
-<img src="https://github.com/user-attachments/assets/a1b21f5d-78e4-4150-bc92-cc469520d377" width="720" height="1280">
+![Adaptable UI](https://github.com/user-attachments/assets/a6829daa-8e21-4107-983f-ace949904a53)
 
-Second  Screen  (Product List)
 
-<img src="https://github.com/user-attachments/assets/74190175-67b3-4001-b0e8-bf5bb1916d76" width="720" height="1280">
+## Demo Video
 
-Third Screen (Product Detail)
+![Demo Video](https://github.com/user-attachments/assets/2f7f8567-ca10-41de-b13f-dbfaa163dc96).
 
-<img src="https://github.com/user-attachments/assets/48fa3138-407a-4210-bbe3-f4bddebf27e7" width="720" height="1280">
+## Installation
 
-Demo Video
-For a detailed walkthrough of the app, check out the Demo video: [Demo Video](https://github.com/user-attachments/assets/2f7f8567-ca10-41de-b13f-dbfaa163dc96)
+### Prerequisites
 
-Installation
-Clone the repository:
+- **Flutter SDK**: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- **Backend Server**: Ensure the backend server is set up and running.
 
-git clone https://github.com/MiteDyson/Product-Screens.git
+### Steps
 
-Navigate to the project directory:
-cd Product-Screens
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/MiteDyson/Product-Screens.git
+    ```
 
-Install dependencies:
-flutter pub get
+2. **Navigate to the project directory:**
+    ```bash
+    cd Product-Screens
+    ```
 
-Run the app:
-flutter run
+3. **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
 
+4. **Run the app:**
+    ```bash
+    flutter run
+    ```
+
+## Code Overview
+
+### Main Components
+
+- **`lib/main.dart`**: Entry point of the app, setting up the main structure.
+- **`lib/screens/`**: Contains all the UI screens such as Home, Product List, and Product Detail.
+- **`lib/models/`**: Defines the data models used across the app.
+- **`lib/services/`**: Handles backend communication and API requests.
+- **`lib/widgets/`**: Contains reusable UI components.
+
+### Architecture
+
+The app follows clean architecture principles, dividing the code into layers for better maintainability and scalability:
+- **Presentation Layer**: Manages the UI and user interaction.
+- **Domain Layer**: Contains business logic.
+- **Data Layer**: Manages data sources, including API and local storage.
 

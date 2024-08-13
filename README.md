@@ -1,6 +1,3 @@
-Here's a well-formatted README for your Product App:
-
----
 
 # Product App 
 

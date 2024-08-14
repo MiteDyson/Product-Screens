@@ -1,5 +1,5 @@
 
-# Product App 
+# Product Application
 
 Welcome to the Product App repository! This project was developed to showcase skills in Android, iOS, and backend development using Flutter.
 
